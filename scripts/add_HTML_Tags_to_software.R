@@ -1,4 +1,10 @@
 library(splitstackshape)
+# Copyright
+# Neranjan Perera 
+# Computational Biology Core
+# Institute for Systems Genomics
+# University of Connecticut
+# 2018/01/12
 
 ### 1
 ## read csv file with software information 
